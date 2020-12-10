@@ -1,6 +1,6 @@
 def my_super_function():
     print("Да?")
-    print(2)
+    print(3)
 
 
 def main():
